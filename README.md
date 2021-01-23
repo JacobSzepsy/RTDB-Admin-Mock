@@ -24,7 +24,7 @@ Finally you need to create a mock for the database object you export after initi
 ```js
 const ref = require('rtdb-admin-mock');
 
-jest.mock('../firebase.js',  => {
+jest.mock('../firebase.js', _ => {
 	...jest.requireActual('../firebase.js'),
 	database: { ref: ref }
 })
