@@ -10,7 +10,7 @@ To use you'll need this package and a unit testing framework. I am using Jest fo
 
 ```sh
 $ npm install -D jest 
-$ npm install https://github.com/JacobSzepsy/RTDB-Admin-Mock
+$ npm install -D https://github.com/JacobSzepsy/RTDB-Admin-Mock
 ```
 
 ### Create your DB
