@@ -1,0 +1,11 @@
+{
+  "name": "rtdb-admin-mock",
+  "version": "1.0.0",
+  "description": "package to mock firebase-admin implementation of RTDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jacob Szepsy",
+  "license": "MIT"
+}
